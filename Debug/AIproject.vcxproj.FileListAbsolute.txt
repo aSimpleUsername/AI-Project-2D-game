@@ -1,0 +1,2 @@
+C:\school\20s2\ict319\assignment\AIproject\Debug\AIproject.exe
+C:\school\20s2\ict319\assignment\AIproject\Debug\AIproject.pdb

@@ -1,0 +1,63 @@
+﻿  gameEntity2D.cpp
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(21,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(27,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(27,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(28,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(28,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(29,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(29,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(152,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(169,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(171,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\gameEntity2D.cpp(187,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  healthPickup.cpp
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(15,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(15,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(16,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(16,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(17,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(17,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(18,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(18,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(24,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(24,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(25,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(25,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(26,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(26,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(27,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(27,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(32,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(32,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(33,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(33,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(34,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(34,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(35,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(35,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(41,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(41,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(42,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(42,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(43,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(43,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(44,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\healthPickup.cpp(44,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(48,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(89,27): warning C4018: '<': signed/unsigned mismatch
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(99,27): warning C4018: '<': signed/unsigned mismatch
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(119,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(122,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(175,23): warning C4018: '<': signed/unsigned mismatch
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(180,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\school\20s2\ict319\assignment\AIproject\main.cpp(199,23): warning C4018: '<': signed/unsigned mismatch
+  userInterface.cpp
+C:\school\20s2\ict319\assignment\AIproject\userInterface.cpp(29,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\userInterface.cpp(44,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\userInterface.cpp(60,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\userInterface.cpp(60,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\school\20s2\ict319\assignment\AIproject\userInterface.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AIproject.vcxproj -> C:\school\20s2\ict319\assignment\AIproject\Debug\AIproject.exe
